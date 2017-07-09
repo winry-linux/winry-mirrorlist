@@ -1,0 +1,13 @@
+# Mirrorlist for the Winry Linux repository
+#
+# Syntax: 
+#     Server = <mirror>/$repo
+#
+# EX: 
+#     Server = https://repo.winrylinux.org/$repo
+#
+
+
+# Official Winry Mirrors
+Server = https://repo.winrylinux.org/$repo
+
